@@ -34,7 +34,7 @@ This project includes:
 🛠 Tools Used
 ---
 
-*  ** Microsoft Excel** (Power Query, Pivot Tables, Pivot Charts)
+*  **Microsoft Excel** (Power Query, Pivot Tables, Pivot Charts)
 *  **Data Cleaning & Wrangling** (Handling missing fields, structuring age and distance bins)
 *  **Exploratory Data Analysis** (EDA)
 
@@ -46,7 +46,7 @@ This project includes:
 ---
 
 Here are the primary trends uncovered from the data:
-*  💵 **Income Thresholds**: Higher average income levels strongly correlate with bike purchases across both genders, peaking with males earning over $60k.
-*  🎂 **Prime Target Demographics**: Middle-aged individuals represent the vast majority of the customer base and total purchase volume.
-*  🚲 **Commute Boundaries**: Bike purchasing peaks heavily for individuals with short commutes (0–1 miles) and drops drastically once commutes exceed 2–5 miles.
+*   **Income Thresholds**: Higher average income levels strongly correlate with bike purchases across both genders, peaking with males earning over $60k.
+*   **Prime Target Demographics**: Middle-aged individuals represent the vast majority of the customer base and total purchase volume.
+*   **Commute Boundaries**: Bike purchasing peaks heavily for individuals with short commutes (0–1 miles) and drops drastically once commutes exceed 2–5 miles.
 
