@@ -1,7 +1,5 @@
 🚲Bike Sales Analysis Project
-
 ---
-
 Welcome to the Bike Sales Data Analysis Project! This project explores and analyzes customer demographics and behavioral traits to uncover the key factors that drive bicycle purchases.
 
 
