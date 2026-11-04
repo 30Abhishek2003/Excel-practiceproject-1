@@ -7,7 +7,6 @@ Welcome to the Bike Sales Data Analysis Project! This project explores and analy
 
 
 📊 Project Overview
-
 ---
 
 This project includes:
@@ -21,7 +20,6 @@ This project includes:
 
 
 📁 Files Included
-
 ---
 
 |File Name|	Description|
@@ -34,7 +32,6 @@ This project includes:
 
 
 🛠 Tools Used
-
 ---
 
 *  ** Microsoft Excel** (Power Query, Pivot Tables, Pivot Charts)
@@ -46,7 +43,6 @@ This project includes:
 
 
 📈 Key Insights
-
 ---
 
 Here are the primary trends uncovered from the data:
