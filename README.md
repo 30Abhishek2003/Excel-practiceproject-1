@@ -4,6 +4,8 @@
 
 Welcome to the Bike Sales Data Analysis Project! This project explores and analyzes customer demographics and behavioral traits to uncover the key factors that drive bicycle purchases.
 
+
+
 📊 Project Overview
 
 ---
@@ -13,6 +15,7 @@ This project includes:
 *  **Analyzing purchase trends** across income levels, age brackets, and geographic regions.
 *  **Visualizing customer behavior** to identify core purchasing segments and commute limitations.
 *  **Providing actionable insights** for targeted marketing, product positioning, and inventory allocation.
+  
 
 
 📁 Files Included
@@ -25,7 +28,7 @@ This project includes:
 |**Practice_project.xlsx**|	Processed data featuring interactive pivot tables, slicers, and the final executive dashboard.|
 
 
-.
+
 
 
 🛠 Tools Used
@@ -35,6 +38,7 @@ This project includes:
 *  ** Microsoft Excel** (Power Query, Pivot Tables, Pivot Charts)
 *  **Data Cleaning & Wrangling** (Handling missing fields, structuring age and distance bins)
 *  **Exploratory Data Analysis** (EDA)
+
 
 
 📈 Key Insights
